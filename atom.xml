@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="iszhusy.github.io/"/>
-  <updated>2020-05-28T05:24:59.527Z</updated>
+  <updated>2020-05-28T06:50:30.329Z</updated>
   <id>iszhusy.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020南大软院考研经验</title>
+    <link href="iszhusy.github.io/2020/05/28/2020-5-28-PostGraduate/"/>
+    <id>iszhusy.github.io/2020/05/28/2020-5-28-PostGraduate/</id>
+    <published>2020-05-28T06:10:18.000Z</published>
+    <updated>2020-05-28T06:50:30.329Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一-写在前面&quot;&gt;&lt;a href=&quot;#一-写在前面&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="考研" scheme="iszhusy.github.io/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+      <category term="考研" scheme="iszhusy.github.io/tags/%E8%80%83%E7%A0%94/"/>
+    
+      <category term="学习" scheme="iszhusy.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Welcome to my life</title>
@@ -36,6 +65,35 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>极简主义主题 - Oranges</title>
+    <link href="iszhusy.github.io/2020/04/18/2020-5-28-learnHexo/"/>
+    <id>iszhusy.github.io/2020/04/18/2020-5-28-learnHexo/</id>
+    <published>2020-04-18T03:08:18.000Z</published>
+    <updated>2020-05-28T06:21:06.056Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;初衷&quot;&gt;&lt;a href=&quot;#初衷&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="iszhusy.github.io/categories/Hexo/"/>
+    
+      <category term="Theme design" scheme="iszhusy.github.io/categories/Hexo/Theme-design/"/>
+    
+    
+      <category term="Hexo" scheme="iszhusy.github.io/tags/Hexo/"/>
     
   </entry>
   
